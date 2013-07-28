@@ -1,0 +1,39 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000;
+	background-color: #FFF;
+	margin: 0px;
+}
+#box {
+	width: 491px;
+	height: 313px;
+	font-family: Verdana, Geneva, sans-serif;
+	padding-right: 5px;
+	padding-bottom: 8px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 30px;
+	color: #FFF;
+	padding-top: 6px;
+	font-size: 14px;
+}
+.msgH1 {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #333;
+}
+#mac {
+	background-image: url(../images/mac.png);
+	background-position: center top;
+	background-repeat: no-repeat;
+	height: 425px;
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.footer {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #666;
+	font-size: 12px;
+}
